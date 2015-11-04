@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  plistSample2
 //
-//  Created by 林克彦 on 2015/11/04.
+//  Created by Hayashidesu. on 2015/11/04.
 //  Copyright © 2015年 Hayashidesu. All rights reserved.
 //
 

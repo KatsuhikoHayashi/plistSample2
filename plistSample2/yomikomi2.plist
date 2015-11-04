@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>AAA</key>
+		<array>
+			<string>AAAAA</string>
+			<string>BBBBB</string>
+		</array>
+		<key>BBB</key>
+		<array>
+			<string>CCCCC</string>
+			<string>DDDDD</string>
+		</array>
+	</dict>
+	<dict>
+		<key>AAA</key>
+		<array>
+			<string>EEEEE</string>
+			<string>FFFFF</string>
+		</array>
+		<key>BBB</key>
+		<array>
+			<string>GGGGG</string>
+			<string>HHHHH</string>
+		</array>
+	</dict>
+	<dict>
+		<key>AAA</key>
+		<array>
+			<string>IIIII</string>
+			<string>JJJJJ</string>
+		</array>
+		<key>BBB</key>
+		<array>
+			<string>KKKKK</string>
+			<string>LLLLL</string>
+		</array>
+	</dict>
+</array>
+</plist>

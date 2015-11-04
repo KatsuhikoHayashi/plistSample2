@@ -12,6 +12,8 @@
 		A8418CB31BE9F4C700047512 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8418CB11BE9F4C700047512 /* Main.storyboard */; };
 		A8418CB51BE9F4C700047512 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8418CB41BE9F4C700047512 /* Assets.xcassets */; };
 		A8418CB81BE9F4C700047512 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8418CB61BE9F4C700047512 /* LaunchScreen.storyboard */; };
+		A8418CC11BE9F55400047512 /* yomikomi1.plist in Resources */ = {isa = PBXBuildFile; fileRef = A8418CBF1BE9F55400047512 /* yomikomi1.plist */; };
+		A8418CC21BE9F55400047512 /* yomikomi2.plist in Resources */ = {isa = PBXBuildFile; fileRef = A8418CC01BE9F55400047512 /* yomikomi2.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		A8418CB41BE9F4C700047512 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A8418CB71BE9F4C700047512 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A8418CB91BE9F4C700047512 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8418CBF1BE9F55400047512 /* yomikomi1.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = yomikomi1.plist; sourceTree = "<group>"; };
+		A8418CC01BE9F55400047512 /* yomikomi2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = yomikomi2.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				A8418CB41BE9F4C700047512 /* Assets.xcassets */,
 				A8418CB61BE9F4C700047512 /* LaunchScreen.storyboard */,
 				A8418CB91BE9F4C700047512 /* Info.plist */,
+				A8418CBF1BE9F55400047512 /* yomikomi1.plist */,
+				A8418CC01BE9F55400047512 /* yomikomi2.plist */,
 			);
 			path = plistSample2;
 			sourceTree = "<group>";
@@ -122,8 +128,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A8418CC11BE9F55400047512 /* yomikomi1.plist in Resources */,
 				A8418CB81BE9F4C700047512 /* LaunchScreen.storyboard in Resources */,
 				A8418CB51BE9F4C700047512 /* Assets.xcassets in Resources */,
+				A8418CC21BE9F55400047512 /* yomikomi2.plist in Resources */,
 				A8418CB31BE9F4C700047512 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
